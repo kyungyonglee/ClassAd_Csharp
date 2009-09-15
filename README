@@ -1,4 +1,9 @@
-This project is aimed at using Condor ClassAd library(http://www.cs.wisc.edu/condor/classad/) on top of .Net environment. I used IKVM(http://www.ikvm.net/) to convert Condor ClassAd java library to .Net Dll file. If you have any question, you can contact me at kyungyonglee at ufl dot edu
+This project is aimed at using Condor ClassAd library(http://www.cs.wisc.edu/condor/classad/) 
+on top of .Net environment. 
+I used IKVM(http://www.ikvm.net/) to convert 
+Condor ClassAd java library to .Net Dll file. 
+If you have any question, you can contact me at 
+kyungyonglee at ufl dot edu
 
 Compile:
 ===========
